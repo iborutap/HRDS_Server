@@ -1,0 +1,4 @@
+/.env
+/node_modules
+/service-account-keys.json
+/hrds.json
